@@ -1,4 +1,4 @@
-//DESCRIPYTION:
+//DESCRIPTION:
 
 // Trolls are attacking your comment section!
 
