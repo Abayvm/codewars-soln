@@ -15,6 +15,7 @@
 //----------
 
 function solution(nums){
+    //Selection Sort algorithm is used.
     let newArr = [];
     if(nums === null){
       return [];
@@ -34,5 +35,4 @@ function solution(nums){
        newArr.push(nums[i]);
     }
     return newArr;
-    //Selection Sort algorithm is used.
 }
